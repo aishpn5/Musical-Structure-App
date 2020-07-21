@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Musical Structure App</string>
+
+    <!-- Category name for english songs -->
+    <string name="category_englishSongs">English Songs</string>
+
+    <!-- Category name for hindi songs-->
+    <string name="category_hindiSongs">Hindi Songs</string>
+
+    <string name="play">Playing Now</string>
+
+</resources>
